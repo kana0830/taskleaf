@@ -1,0 +1,16 @@
+--2020-06-12 23:59:17--  https://raw.github.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml
+Resolving raw.github.com (raw.github.com)... 151.101.108.133
+Connecting to raw.github.com (raw.github.com)|151.101.108.133|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://raw.githubusercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml [following]
+--2020-06-12 23:59:18--  https://raw.githubusercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.108.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5117 (5.0K) [text/plain]
+Saving to: 'ja.yml'
+
+     0K ....                                                  100% 5.12M=0.001s
+
+2020-06-12 23:59:18 (5.12 MB/s) - 'ja.yml' saved [5117/5117]
+
